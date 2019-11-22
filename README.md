@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+Note: [Lodash](https://github.com/hchiam/learning-lodash) is a newer superset of Underscore.
+
 Tutorial: <https://www.sitepoint.com/getting-started-with-underscore-js/>
 
 A few commands I used to got started:
